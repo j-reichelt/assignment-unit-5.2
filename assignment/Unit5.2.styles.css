@@ -1,0 +1,31 @@
+header{
+background-color:darkred;
+color: magenta;
+text-align: center;
+}
+
+.intro{
+color: #6600cc;
+font-size: 20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+main{
+background-color:lightgray;
+padding: 1em;
+}
+
+body{
+margin: 0;
+}
+
+.questions{
+text-align: center;
+color: #009999;
+font-size: 20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+background-color: #ffff00;
+border-style: dotted;
+border-color: orange;
+margin-top: 10px;
+}
