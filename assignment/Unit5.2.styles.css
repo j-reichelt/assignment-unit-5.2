@@ -13,6 +13,7 @@ font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 main{
 background-color:lightgray;
 padding: 1em;
+opacity: 0.8;
 }
 
 body{
@@ -28,6 +29,7 @@ background-color: #ffff00;
 border-style: dotted;
 border-color: orange;
 margin-top: 10px;
+opacity: 0.8;
 }
 
 
@@ -37,10 +39,11 @@ color: #cc00ff;
 background-color:aqua;
 border-style: solid;
 border-color: aqua;
-border-radius: 10px;
+border-radius: 20px;
 margin-top: 10px;
 font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 font-size: 20px;
+opacity: 0.8;
 }
 
 ul{
